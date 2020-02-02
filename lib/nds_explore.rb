@@ -11,4 +11,4 @@ end
 def print_first_directors_movie_titles
 end
 
-directors_database
+puts directors_database
