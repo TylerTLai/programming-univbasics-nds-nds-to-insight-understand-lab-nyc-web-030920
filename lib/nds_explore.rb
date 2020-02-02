@@ -12,7 +12,7 @@ def print_first_directors_movie_titles
   
   title_index = 0
 
-  while title_index < directors_database[:movies].count do
+  while title_index < directors_database.count do
     
     puts directors_database[:movies]
     
